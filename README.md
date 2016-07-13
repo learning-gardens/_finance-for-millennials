@@ -1,6 +1,13 @@
-Finance for Millenials
+Finance for Millennials
 
 —
 
-A finance educational course
+### Overview
 
+A financial education course, for millennials.
+
+—
+
+### Structure
+
+TBA
